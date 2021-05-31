@@ -1,0 +1,5 @@
+include ':clickbuttons'
+include ':layouttype'
+include ':app'
+rootProject.name = "practice1"
+include ':activity'
